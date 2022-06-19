@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader-complete.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

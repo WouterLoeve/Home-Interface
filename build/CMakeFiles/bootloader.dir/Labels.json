@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

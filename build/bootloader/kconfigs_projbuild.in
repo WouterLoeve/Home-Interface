@@ -1,0 +1,4 @@
+source "/mnt/LinuxHDD/ESP/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/mnt/LinuxHDD/ESP/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/mnt/LinuxHDD/ESP/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/mnt/LinuxHDD/ESP/esp-idf/components/partition_table/Kconfig.projbuild"

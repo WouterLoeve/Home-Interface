@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/mnt/LinuxHDD/ESP/ESP32-Home-interface/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
+  include("/mnt/LinuxHDD/ESP/Home-Interface/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
 
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/LinuxHDD/ESP/ESP32-Home-interface/components/TempSensor
+# Install script for directory: /mnt/LinuxHDD/ESP/Home-Interface/components/TempSensor
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

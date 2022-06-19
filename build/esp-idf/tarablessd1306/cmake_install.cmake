@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/LinuxHDD/ESP/ESP32-Home-interface/components/tarablessd1306
+# Install script for directory: /mnt/LinuxHDD/ESP/Home-Interface/components/tarablessd1306
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

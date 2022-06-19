@@ -1,4 +1,4 @@
-/* * Data converted from /mnt/LinuxHDD/ESP/ESP32-Home-interface/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /mnt/LinuxHDD/ESP/Home-Interface/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

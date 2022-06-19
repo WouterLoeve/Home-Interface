@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/LinuxHDD/ESP/ESP32-Home-interface/main
+# Install script for directory: /mnt/LinuxHDD/ESP/Home-Interface/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
